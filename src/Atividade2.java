@@ -6,7 +6,7 @@ public class Atividade2 {
 
         int tamanho;
 
-        System.out.println("Digite o tamanho do quadrado, somente de 1 a 10:");
+        System.out.print("Digite o tamanho do quadrado, somente de 1 a 10: ");
         tamanho = entry.nextInt();
 
         if (tamanho >= 1 && tamanho <= 10) {
